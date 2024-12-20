@@ -1,0 +1,43 @@
+# Environment Variables
+.env
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+env/
+.venv/
+# Logs
+*.log
+*.out
+*.err
+
+# Application Runtime Files
+*.sqlite3
+*.db
+# OS-Specific Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Visual Studio Code
+.vscode/
+.idea/
+
+# JetBrains IDEs
+*.iml
+.idea/
+# Data Files
+*.csv
+*.json
+*.xlsx
+
+# Model Files
+*.h5
+*.pkl
+*.joblib
+# Docker
+docker-compose.override.yml
+*.env.docker
